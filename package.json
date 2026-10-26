@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-labs-by-methodics",
+  "private": true,
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "truffle test",
+    "deploy:sepolia": "node scripts/deploy-sepolia.mjs",
+    "verify:sourcify": "node scripts/verify-sourcify.mjs"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.9.6",
+    "ethers": "6.17.0",
+    "solc": "0.8.19",
+    "truffle": "5.11.5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "network": "Ethereum Sepolia",
+  "chainId": 11155111,
+  "deployer": "0x621836834fdC3c65e211681C910617E6EEF77Aaf",
+  "metaMask": "0x5E2207166dFeebbD77F72c600D8aF7Ff9f1eafBF",
+  "contracts": {
+    "Poster": {
+      "address": "0x8dCb41B34f56297BC311E5376c4599983d857c58",
+      "transactionHash": "0x585d6edbd73303258495c8ff14e6070151065a31f084c5c0fae77133bd4e7011",
+      "postTransactionHash": "0x828c8b77ae6408ecf83cfccc9b8a93bbb5284c6d6543969fcdc34f90b97e7f55"
+    },
+    "LabToken": {
+      "address": "0x6b5ADc5E76256cCB67f07764b59FDCC748876307",
+      "transactionHash": "0xb8656184f72acd8b313586166b4d8e73874979a3bfe1712f9966a4ab33a8d94c",
+      "transferTransactionHash": "0x5ae1d9bb1c74784a11828cdbd6937a8c31e0e01456f8084ed2542bd913488f2d",
+      "ownershipTransactionHash": "0x7ecdf6f2198c1a3fa03eefb6adbbfcd6ce07c3c15b978915cac2336b7eded5a8"
+    },
+    "TokenGatedPoster": {
+      "address": "0x992d976Cf778312A4Fde8fD4c1174492a58f8FDE",
+      "transactionHash": "0x548aefaaf616d54382d33589e995bf7c5623b39202587c7ba02e72b388acb2fb",
+      "ownershipTransactionHash": "0xe2f07772d2bcaab466be62bb1ed146cea6d562febd82be4e70a055cf6e2770a7",
+      "threshold": "10000000000000000000",
+      "postTransactionHash": "0x62a98f6a386a1f5f5868a01a47b81d0f454e0349ed40e642060ae18a427868c5",
+      "postBlockNumber": 12000298
+    }
+  }
+}
